@@ -6,7 +6,7 @@
 <br>
 <p>Check out my <b>Portfolio Website</b> <samp>(Pictured Below)</samp> at <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you have any questions of comments, feel free to shoot me an email at <a href="mailto:henryheffernan@gmail.com"><samp>henryheffernan@gmail.com</samp></a> or connect with me on <a href="https://www.linkedin.com/in/henryheffernan/"><samp>LinkedIn</samp></a>.</p>
 
-<p>I'm also on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a></p>
+<p>I'm also on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>!</p>
 <br>
 <a href="https://henryheffernan.com/">
 <img src="https://henryheffernan.com/images/preview-new.jpg" >
