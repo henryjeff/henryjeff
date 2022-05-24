@@ -8,9 +8,9 @@
 
 <p>I'm also on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>!</p>
 <br>
-<a href="https://henryheffernan.com/">
+<!-- <a href="https://henryheffernan.com/">
 <img src="https://henryheffernan.com/images/preview-new.jpg" >
- </a>
+ </a> -->
 <!---
 &nbsp<img src="https://henryheffernan.vercel.app/favicon.ico" width="28" align="center"/>
 -->
